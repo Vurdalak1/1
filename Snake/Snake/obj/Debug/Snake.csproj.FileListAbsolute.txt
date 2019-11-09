@@ -1,0 +1,7 @@
+D:\Робота\Microsoft Visual Studio ( проекти)\Змейка\Snake\Snake\bin\Debug\Snake.exe.config
+D:\Робота\Microsoft Visual Studio ( проекти)\Змейка\Snake\Snake\bin\Debug\Snake.exe
+D:\Робота\Microsoft Visual Studio ( проекти)\Змейка\Snake\Snake\bin\Debug\Snake.pdb
+D:\Робота\Microsoft Visual Studio ( проекти)\Змейка\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+D:\Робота\Microsoft Visual Studio ( проекти)\Змейка\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+D:\Робота\Microsoft Visual Studio ( проекти)\Змейка\Snake\Snake\obj\Debug\Snake.exe
+D:\Робота\Microsoft Visual Studio ( проекти)\Змейка\Snake\Snake\obj\Debug\Snake.pdb
