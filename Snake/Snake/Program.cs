@@ -357,7 +357,7 @@ namespace Snake
             }
 
             Console.SetCursorPosition(x + 2, y + 2);
-            Console.Write("GAME OVER!");
+            Console.Write("GAME OVER!!!");
         }
     }
 }
