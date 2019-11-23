@@ -129,7 +129,7 @@ namespace Snake
             int x = rnd.Next(1, width - 1);
             int y = rnd.Next(1, height - 1);
 
-            Point food = new Point(x, y, '@');
+            Point food = new Point(x, y, '%');
 
             food.Draw();
 
