@@ -86,7 +86,10 @@ namespace Snake
         {
             for (int i = 0; i < width; i++)
             {
-                Point topPoint = new Point(i, 0, '+');
+                Point topPoint = new Point(i, 0, '4');
+
+                Point topPoint = new Point(i, 0, '2');
+
                 Point botPoint = new Point(i, height, '+');
 
                 topPoint.Draw();
